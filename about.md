@@ -8,11 +8,11 @@ permalink: /about/
 
 ### About Me
 
-Biomedical Engineer who found a passion for data science.
+I have a bachelor of science in Biomedical Engineering and am currently pursuing a Masters in Computer Science.
 
 ### More Info
-I originally studied for a Biomedical engineering at FIU. I started to gain in interest in DataScience and decided to take a course on it. I have been constantly learning new things and haven't stopped since. 
+I originally studied for a Biomedical engineering at FIU. I started to gain in interest in DataScience and Programming and decided to take a course on it. Since then I decided to pursue a career in software engineering and have started my masters while I am currently employed at Stryker. 
 
 ### Contact me
 
-[lalindedatascience@gmail.com](mailto:lalindedatascience@gmail.com)
+[lalindeaaron@gmail.com](mailto:lalindeaaron@gmail.com)
