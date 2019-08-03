@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Project
+permalink: /Project/
 ---
 ### Gathering data from tables in webpages
 
